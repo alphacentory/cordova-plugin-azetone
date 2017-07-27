@@ -1,9 +1,9 @@
 {
-    "name": "cordova-plugin-custom",
+    "name": "cordova-plugin-azetone",
     "description": "This plugin is for wrapping our custom libs in ios and android native so that we can compile properly",
     "version": "1.0.0",
     "cordova": {
-        "id": "cordova-plugin-custom",
+        "id": "cordova-plugin-azetone",
         "platforms": [
             "android", 
             "ios"
